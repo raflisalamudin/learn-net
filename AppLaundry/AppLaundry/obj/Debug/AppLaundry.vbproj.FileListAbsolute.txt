@@ -1,0 +1,13 @@
+D:\Belajar VB.net\AppLaundry\AppLaundry\bin\Debug\AppLaundry.exe
+D:\Belajar VB.net\AppLaundry\AppLaundry\bin\Debug\AppLaundry.pdb
+D:\Belajar VB.net\AppLaundry\AppLaundry\bin\Debug\AppLaundry.xml
+D:\Belajar VB.net\AppLaundry\AppLaundry\obj\Debug\ResolveAssemblyReference.cache
+D:\Belajar VB.net\AppLaundry\AppLaundry\obj\Debug\AppLaundry.MenuUtama.resources
+D:\Belajar VB.net\AppLaundry\AppLaundry\obj\Debug\AppLaundry.Resources.resources
+D:\Belajar VB.net\AppLaundry\AppLaundry\obj\Debug\AppLaundry.vbproj.GenerateResource.Cache
+D:\Belajar VB.net\AppLaundry\AppLaundry\obj\Debug\AppLaundry.exe
+D:\Belajar VB.net\AppLaundry\AppLaundry\obj\Debug\AppLaundry.xml
+D:\Belajar VB.net\AppLaundry\AppLaundry\obj\Debug\AppLaundry.pdb
+D:\Belajar VB.net\AppLaundry\AppLaundry\obj\Debug\AppLaundry.Login.resources
+D:\Belajar VB.Net\AppLaundry\AppLaundry\obj\Debug\AppLaundry.MasterUser.resources
+D:\Belajar VB.Net\AppLaundry\AppLaundry\obj\Debug\AppLaundry.MasterCustomer.resources

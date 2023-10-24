@@ -1,0 +1,9 @@
+D:\Belajar VB.net\quiz-uts\quiz-uts\bin\quiz-uts.dll
+D:\Belajar VB.net\quiz-uts\quiz-uts\bin\quiz-uts.pdb
+D:\Belajar VB.net\quiz-uts\quiz-uts\bin\quiz-uts.xml
+D:\Belajar VB.net\quiz-uts\quiz-uts\obj\Release\ResolveAssemblyReference.cache
+D:\Belajar VB.net\quiz-uts\quiz-uts\obj\Release\quiz_uts.Resources.resources
+D:\Belajar VB.net\quiz-uts\quiz-uts\obj\Release\quiz-uts.vbproj.GenerateResource.Cache
+D:\Belajar VB.net\quiz-uts\quiz-uts\obj\Release\quiz-uts.dll
+D:\Belajar VB.net\quiz-uts\quiz-uts\obj\Release\quiz-uts.xml
+D:\Belajar VB.net\quiz-uts\quiz-uts\obj\Release\quiz-uts.pdb

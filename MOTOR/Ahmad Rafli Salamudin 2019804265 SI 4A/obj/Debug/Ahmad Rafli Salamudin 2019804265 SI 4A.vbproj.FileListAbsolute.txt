@@ -1,0 +1,42 @@
+D:\Belajar VB.Net\Ahmad Rafli Salamudin 2019804265 SI 4A\Ahmad Rafli Salamudin 2019804265 SI 4A\bin\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.exe
+D:\Belajar VB.Net\Ahmad Rafli Salamudin 2019804265 SI 4A\Ahmad Rafli Salamudin 2019804265 SI 4A\bin\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.pdb
+D:\Belajar VB.Net\Ahmad Rafli Salamudin 2019804265 SI 4A\Ahmad Rafli Salamudin 2019804265 SI 4A\bin\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.xml
+D:\Belajar VB.Net\Ahmad Rafli Salamudin 2019804265 SI 4A\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\ResolveAssemblyReference.cache
+D:\Belajar VB.Net\Ahmad Rafli Salamudin 2019804265 SI 4A\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad_Rafli_Salamudin_2019804265_SI_4A.Form1.resources
+D:\Belajar VB.Net\Ahmad Rafli Salamudin 2019804265 SI 4A\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad_Rafli_Salamudin_2019804265_SI_4A.Resources.resources
+D:\Belajar VB.Net\Ahmad Rafli Salamudin 2019804265 SI 4A\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.vbproj.GenerateResource.Cache
+D:\Belajar VB.Net\Ahmad Rafli Salamudin 2019804265 SI 4A\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.exe
+D:\Belajar VB.Net\Ahmad Rafli Salamudin 2019804265 SI 4A\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.xml
+D:\Belajar VB.Net\Ahmad Rafli Salamudin 2019804265 SI 4A\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.pdb
+D:\Belajar VB.Net\GELAS\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.exe
+D:\Belajar VB.Net\GELAS\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.xml
+D:\Belajar VB.Net\GELAS\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.pdb
+D:\Belajar VB.Net\GELAS\Ahmad Rafli Salamudin 2019804265 SI 4A\bin\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.exe
+D:\Belajar VB.Net\GELAS\Ahmad Rafli Salamudin 2019804265 SI 4A\bin\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.pdb
+D:\Belajar VB.Net\GELAS\Ahmad Rafli Salamudin 2019804265 SI 4A\bin\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.xml
+D:\Belajar VB.Net\GELAS\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\ResolveAssemblyReference.cache
+D:\Belajar VB.Net\GELAS\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad_Rafli_Salamudin_2019804265_SI_4A.Form1.resources
+D:\Belajar VB.Net\GELAS\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad_Rafli_Salamudin_2019804265_SI_4A.Resources.resources
+D:\Belajar VB.Net\GELAS\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.vbproj.GenerateResource.Cache
+D:\Belajar VB.Net\EMBER\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.exe
+D:\Belajar VB.Net\EMBER\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.xml
+D:\Belajar VB.Net\EMBER\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.pdb
+D:\Belajar VB.Net\EMBER\Ahmad Rafli Salamudin 2019804265 SI 4A\bin\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.exe
+D:\Belajar VB.Net\EMBER\Ahmad Rafli Salamudin 2019804265 SI 4A\bin\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.pdb
+D:\Belajar VB.Net\EMBER\Ahmad Rafli Salamudin 2019804265 SI 4A\bin\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.xml
+D:\Belajar VB.Net\EMBER\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\ResolveAssemblyReference.cache
+D:\Belajar VB.Net\EMBER\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad_Rafli_Salamudin_2019804265_SI_4A.Form1.resources
+D:\Belajar VB.Net\EMBER\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad_Rafli_Salamudin_2019804265_SI_4A.Resources.resources
+D:\Belajar VB.Net\EMBER\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.vbproj.GenerateResource.Cache
+D:\Belajar VB.Net\EMBER\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad_Rafli_Salamudin_2019804265_SI_4A.Laporan.resources
+D:\Belajar VB.Net\MOTOR\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.exe
+D:\Belajar VB.Net\MOTOR\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.xml
+D:\Belajar VB.Net\MOTOR\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.pdb
+D:\Belajar VB.Net\MOTOR\Ahmad Rafli Salamudin 2019804265 SI 4A\bin\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.exe
+D:\Belajar VB.Net\MOTOR\Ahmad Rafli Salamudin 2019804265 SI 4A\bin\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.pdb
+D:\Belajar VB.Net\MOTOR\Ahmad Rafli Salamudin 2019804265 SI 4A\bin\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.xml
+D:\Belajar VB.Net\MOTOR\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\ResolveAssemblyReference.cache
+D:\Belajar VB.Net\MOTOR\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad_Rafli_Salamudin_2019804265_SI_4A.Form1.resources
+D:\Belajar VB.Net\MOTOR\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad_Rafli_Salamudin_2019804265_SI_4A.Laporan.resources
+D:\Belajar VB.Net\MOTOR\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad_Rafli_Salamudin_2019804265_SI_4A.Resources.resources
+D:\Belajar VB.Net\MOTOR\Ahmad Rafli Salamudin 2019804265 SI 4A\obj\Debug\Ahmad Rafli Salamudin 2019804265 SI 4A.vbproj.GenerateResource.Cache

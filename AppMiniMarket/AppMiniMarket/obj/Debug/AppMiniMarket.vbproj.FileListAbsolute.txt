@@ -1,0 +1,12 @@
+D:\Belajar VB.net\AppMiniMarket\AppMiniMarket\bin\Debug\AppMiniMarket.exe
+D:\Belajar VB.net\AppMiniMarket\AppMiniMarket\bin\Debug\AppMiniMarket.pdb
+D:\Belajar VB.net\AppMiniMarket\AppMiniMarket\bin\Debug\AppMiniMarket.xml
+D:\Belajar VB.net\AppMiniMarket\AppMiniMarket\obj\Debug\ResolveAssemblyReference.cache
+D:\Belajar VB.net\AppMiniMarket\AppMiniMarket\obj\Debug\AppMiniMarket.MenuUtama.resources
+D:\Belajar VB.net\AppMiniMarket\AppMiniMarket\obj\Debug\AppMiniMarket.Resources.resources
+D:\Belajar VB.net\AppMiniMarket\AppMiniMarket\obj\Debug\AppMiniMarket.vbproj.GenerateResource.Cache
+D:\Belajar VB.net\AppMiniMarket\AppMiniMarket\obj\Debug\AppMiniMarket.exe
+D:\Belajar VB.net\AppMiniMarket\AppMiniMarket\obj\Debug\AppMiniMarket.xml
+D:\Belajar VB.net\AppMiniMarket\AppMiniMarket\obj\Debug\AppMiniMarket.pdb
+D:\Belajar VB.net\AppMiniMarket\AppMiniMarket\obj\Debug\AppMiniMarket.Login.resources
+D:\Belajar VB.net\AppMiniMarket\AppMiniMarket\obj\Debug\AppMiniMarket.MasterAdmin.resources

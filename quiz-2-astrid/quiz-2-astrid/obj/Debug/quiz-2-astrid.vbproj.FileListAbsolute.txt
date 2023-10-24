@@ -1,0 +1,9 @@
+D:\Belajar VB.Net\quiz-2-astrid\quiz-2-astrid\bin\quiz-2-astrid.dll
+D:\Belajar VB.Net\quiz-2-astrid\quiz-2-astrid\bin\quiz-2-astrid.pdb
+D:\Belajar VB.Net\quiz-2-astrid\quiz-2-astrid\bin\quiz-2-astrid.xml
+D:\Belajar VB.Net\quiz-2-astrid\quiz-2-astrid\obj\Debug\ResolveAssemblyReference.cache
+D:\Belajar VB.Net\quiz-2-astrid\quiz-2-astrid\obj\Debug\quiz_2_astrid.Resources.resources
+D:\Belajar VB.Net\quiz-2-astrid\quiz-2-astrid\obj\Debug\quiz-2-astrid.vbproj.GenerateResource.Cache
+D:\Belajar VB.Net\quiz-2-astrid\quiz-2-astrid\obj\Debug\quiz-2-astrid.dll
+D:\Belajar VB.Net\quiz-2-astrid\quiz-2-astrid\obj\Debug\quiz-2-astrid.xml
+D:\Belajar VB.Net\quiz-2-astrid\quiz-2-astrid\obj\Debug\quiz-2-astrid.pdb

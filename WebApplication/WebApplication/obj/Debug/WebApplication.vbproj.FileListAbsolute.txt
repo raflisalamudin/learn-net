@@ -1,0 +1,9 @@
+D:\Belajar VB.net\WebApplication\WebApplication\bin\WebApplication.dll
+D:\Belajar VB.net\WebApplication\WebApplication\bin\WebApplication.pdb
+D:\Belajar VB.net\WebApplication\WebApplication\bin\WebApplication.xml
+D:\Belajar VB.net\WebApplication\WebApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Belajar VB.net\WebApplication\WebApplication\obj\Debug\WebApplication.Resources.resources
+D:\Belajar VB.net\WebApplication\WebApplication\obj\Debug\WebApplication.vbproj.GenerateResource.Cache
+D:\Belajar VB.net\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+D:\Belajar VB.net\WebApplication\WebApplication\obj\Debug\WebApplication.xml
+D:\Belajar VB.net\WebApplication\WebApplication\obj\Debug\WebApplication.pdb

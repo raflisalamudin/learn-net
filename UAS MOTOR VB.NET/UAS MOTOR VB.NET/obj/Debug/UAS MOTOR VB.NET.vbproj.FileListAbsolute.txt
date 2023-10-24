@@ -1,0 +1,11 @@
+D:\Belajar VB.net\UAS MOTOR VB.NET\UAS MOTOR VB.NET\bin\Debug\UAS MOTOR VB.NET.exe
+D:\Belajar VB.net\UAS MOTOR VB.NET\UAS MOTOR VB.NET\bin\Debug\UAS MOTOR VB.NET.pdb
+D:\Belajar VB.net\UAS MOTOR VB.NET\UAS MOTOR VB.NET\bin\Debug\UAS MOTOR VB.NET.xml
+D:\Belajar VB.net\UAS MOTOR VB.NET\UAS MOTOR VB.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\Belajar VB.net\UAS MOTOR VB.NET\UAS MOTOR VB.NET\obj\Debug\UAS_MOTOR_VB.NET.Form1.resources
+D:\Belajar VB.net\UAS MOTOR VB.NET\UAS MOTOR VB.NET\obj\Debug\UAS_MOTOR_VB.NET.Laporan.resources
+D:\Belajar VB.net\UAS MOTOR VB.NET\UAS MOTOR VB.NET\obj\Debug\UAS_MOTOR_VB.NET.Resources.resources
+D:\Belajar VB.net\UAS MOTOR VB.NET\UAS MOTOR VB.NET\obj\Debug\UAS MOTOR VB.NET.vbproj.GenerateResource.Cache
+D:\Belajar VB.net\UAS MOTOR VB.NET\UAS MOTOR VB.NET\obj\Debug\UAS MOTOR VB.NET.exe
+D:\Belajar VB.net\UAS MOTOR VB.NET\UAS MOTOR VB.NET\obj\Debug\UAS MOTOR VB.NET.xml
+D:\Belajar VB.net\UAS MOTOR VB.NET\UAS MOTOR VB.NET\obj\Debug\UAS MOTOR VB.NET.pdb

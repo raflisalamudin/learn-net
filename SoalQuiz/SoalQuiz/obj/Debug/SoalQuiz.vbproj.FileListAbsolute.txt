@@ -1,0 +1,9 @@
+D:\Belajar VB.net\SoalQuiz\SoalQuiz\bin\SoalQuiz.dll
+D:\Belajar VB.net\SoalQuiz\SoalQuiz\bin\SoalQuiz.pdb
+D:\Belajar VB.net\SoalQuiz\SoalQuiz\bin\SoalQuiz.xml
+D:\Belajar VB.net\SoalQuiz\SoalQuiz\obj\Debug\ResolveAssemblyReference.cache
+D:\Belajar VB.net\SoalQuiz\SoalQuiz\obj\Debug\SoalQuiz.Resources.resources
+D:\Belajar VB.net\SoalQuiz\SoalQuiz\obj\Debug\SoalQuiz.vbproj.GenerateResource.Cache
+D:\Belajar VB.net\SoalQuiz\SoalQuiz\obj\Debug\SoalQuiz.dll
+D:\Belajar VB.net\SoalQuiz\SoalQuiz\obj\Debug\SoalQuiz.xml
+D:\Belajar VB.net\SoalQuiz\SoalQuiz\obj\Debug\SoalQuiz.pdb
